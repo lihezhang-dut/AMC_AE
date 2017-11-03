@@ -12,10 +12,10 @@ The code is tested on Windows 7 with MATLAB R2014a.
 *******************************************************************************
 Usage:
 
->put test images into '\image'
->put their boundary maps into '\boundary-map'
->put their deep features into '\FCN-feature'
->run 'Saliency_AMC_AE.m'
+1.put test images into '\image'
+2.put their boundary maps into '\boundary-map'
+3.put their deep features into '\FCN-feature'
+4.run 'Saliency_AMC_AE.m'
 
 
 Note:
