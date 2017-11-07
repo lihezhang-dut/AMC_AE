@@ -36,10 +36,10 @@ Installation:
 
 
 Usage:
->put test images into the directory '\image'
->put their boundary maps into the directory '\boundary-map'
->put their deep features into the directory '\FCN-feature'
->run 'Saliency_AMC_AE.m'
+>put test images into the directory '\image'  
+>put their boundary maps into the directory '\boundary-map'  
+>put their deep features into the directory '\FCN-feature'  
+>run 'Saliency_AMC_AE.m'  
 
 
 Note:  
