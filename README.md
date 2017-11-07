@@ -9,14 +9,14 @@ written by Jianwu Ai. Email: aijianwu@mail.dlut.edu.cn
 
 If you use this code please cite our TIP2017 and ICCV2013 paper:
 
-@article{zhanglh_2017_TIP>
-author = {Lihe Zhang and Jianwu Ai and Bowen Jiang and Huchuan Lu and Xiukui Li}
-title = {Saliency Detection via Absorbing Markov Chain with Learnt Transition Probability}
-journal= {IEEE Trans. Image Process.}
-volume={},
-number={},
-pages={},
-year = {},
+@article{zhanglh_2017_TIP>  
+author = {Lihe Zhang and Jianwu Ai and Bowen Jiang and Huchuan Lu and Xiukui Li}  
+title = {Saliency Detection via Absorbing Markov Chain with Learnt Transition Probability}  
+journal= {IEEE Trans. Image Process.}  
+volume={},  
+number={},  
+pages={},  
+year = {},  
 }
 
 @InProceedings{Jiangbw_ICCV13,  
@@ -51,9 +51,9 @@ Note:
 [1]C. L. Zitnick and P. Dollár, Edge boxes: Locating object proposals from edges, in ECCV, 2014.
 [2]J. Long, E. Shelhamer, and T. Darrell, Fully convolutional networks for semantic segmentation, in CVPR, 2015.
 
---------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 Source code and saliency maps for the MSRA, ECSSD, PASCAL, HKU-IS, SOD and SED datasets can also be downloaded from https://www.researchgate.net/ or https://github.com/.
---------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 Note: The running time reported in our paper does not include the time of the computational cost of extracting deep features. 
 
