@@ -2,20 +2,20 @@
 Saliency Detection via Absorbing Markov Chain with Learnt Transition Probability (Include Code and Maps)
 
 
-The code is for paper "Saliency Detection via Absorbing Markov Chain with Learnt Transition Probability" by Lihe Zhang, Jianwu Ai, Bowen Jiang, Huchuan Lu and Xiukui Li. To appear in IEEE TRANSACTIONS ON IMAGE PROCESSING 2017   
+The code is for paper "Saliency Detection via Absorbing Markov Chain with Learnt Transition Probability" by Lihe Zhang, Jianwu Ai, Bowen Jiang, Huchuan Lu and Xiukui Li. To appear in IEEE TRANSACTIONS ON IMAGE PROCESSING 2018   
 written by Jianwu Ai. Email: aijianwu@mail.dlut.edu.cn
 
 
-If you use this code please cite our TIP2017 and ICCV2013 paper:
+If you use this code please cite our TIP2018 and ICCV2013 paper:
 
-@article{zhanglh_2017_TIP>  
+@article{zhanglh_2018_TIP>  
 author = {Lihe Zhang and Jianwu Ai and Bowen Jiang and Huchuan Lu and Xiukui Li}  
 title = {Saliency Detection via Absorbing Markov Chain with Learnt Transition Probability}  
 journal= {IEEE Trans. Image Process.}  
-volume={},  
-number={},  
-pages={},  
-year = {},  
+volume={27},  
+number={2},  
+pages={987-998},  
+year = {2018},  
 }
 
 @InProceedings{Jiangbw_ICCV13,  
